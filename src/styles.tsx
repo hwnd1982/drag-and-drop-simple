@@ -17,6 +17,7 @@ const GlobalStyle = createGlobalStyle`
   svg {
     height: 100%;
     object-fit: cover;
+    z-index: -100;
   }
 `
 
